@@ -27,7 +27,7 @@ This bash script automates the setup of a web development environment suitable f
 4. Follow the on-screen prompts to configure the MySQL/MariaDB user.
 
 or you can install it by run the command on terminal :
-curl -sSL https://raw.githubusercontent.com/bayuapriansah/script-to-set-up-laravel-environtment-on-ubuntu-22.04/main/setup.sh | sudo bash
+`curl -sSL https://raw.githubusercontent.com/bayuapriansah/script-to-set-up-laravel-environtment-on-ubuntu-22.04/main/setup.sh | sudo bash`
 
 ### License
 
